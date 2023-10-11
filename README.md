@@ -10,7 +10,7 @@
 <!-- Education -->
 
 <h2 align = "center">Education</h2>
-<h3>
+
 <ul>
   <li>
  Kennesaw State University, 2012 - 2019
@@ -24,9 +24,8 @@
   Course Careers
   </li>
    <ul>
-      <li>nformation Technology Professional Course</li>
+      <li>Information Technology Professional Course</li>
     </ul>
-</ul>
 
 
 </h3>
@@ -36,7 +35,9 @@
 <!-- Certifications -->
 
 <h2 align = "center">Certifications</h2>
-<h3>CourseCareers IT Professional (In progress, expected Dec 1st, 2023)</h3>
+<ul>
+  <li>CourseCareers IT Professional (In progress, expected Dec 1st, 2023)</li>
+</ul>
 
 <br>
 
@@ -44,15 +45,22 @@
 
 <h2 align = "center">IT Projects</h2>
 
-- <b>osTicketing (Help Desk Ticketing)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ColtonTrauCC/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration]()
-  - [osTicket: Ticket Lifecycle Examples]()
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs]()
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
-  - [Virtual Machine Setup and Management]()
+<ul>
+<li><b>osTicketing (Help Desk Ticketing)</b></li>
+  <ul>
+  <li>[osTicket: Prerequisites and Installation](https://github.com/ColtonTrauCC/osticket-prereqs)</li>
+  <li>[osTicket: Post-Installation Configuration]()</li>
+  <li>[osTicket: Ticket Lifecycle Examples]()</li>
+  </ul>
+  
+<li><b>Microsoft Azure</b></li>
+  <ul>
+  <li>[Configuring Active Directory within Azure VMs]()</li>
+  <li>[Network Security Groups (NSGs) and Inspecting Network Protocols]()</li>
+  <li>[Virtual Machine Setup and Management]()</li>
+  </ul>
 
+</ul>
 <br>
 
 <!-- Game Dev Projects -->
