@@ -16,7 +16,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
   - [Virtual Machine Setup and Management]()
  
-<h2 align = "center">Game Development Project</h2>
+<h2 align = "center">Game Development Projects</h2>
 
 <h3 align = "center"><a href ="https://chematomicgame.wordpress.com/">CHEMANDOS</a></h3>
 
