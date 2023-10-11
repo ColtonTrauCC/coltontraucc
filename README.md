@@ -18,6 +18,6 @@
  
 <h2 align = "center">Game Development Project</h2>
 
-<a href ="https://chematomicgame.wordpress.com/">CHEMANDOS</a>
+<h3 align = "center"><a href ="https://chematomicgame.wordpress.com/">CHEMANDOS</a></h3>
 
 
