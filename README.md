@@ -12,13 +12,13 @@
 <h2 align = "center">Education</h2>
 
 <ul>
-  <li>Kennesaw State University, 2012 - 2019</li>
+  <li><b>Kennesaw State University, 2012 - 2019</b></li>
     <ul>
       <li>Bachelor Science in Computer Game Design & Development</li>
       <li>Minor Degree in Computer Science</li>
     </ul>
   
-  <li>Course Careers</li>
+  <li><b>Course Careers</b></li>
    <ul>
       <li>Information Technology Professional Course</li>
    </ul>
@@ -44,16 +44,17 @@
 <ul>
 <li><b>osTicketing (Help Desk Ticketing)</b></li>
   <ul>
-  <li><a href = "https://github.com/ColtonTrauCC/osticket-prereqs">osTicket: Prerequisites and Installation</a></li>
-  <li>[osTicket: Post-Installation Configuration]()</li>
-  <li>[osTicket: Ticket Lifecycle Examples]()</li>
+    <!-- <a href = "https://github.com/ColtonTrauCC/osticket-prereqs">osTicket: Prerequisites and Installation</a> -->
+  <li>[osTicket: Prerequisites and Installation](In Progress)/li>
+  <li>[osTicket: Post-Installation Configuration](In Progress)</li>
+  <li>[osTicket: Ticket Lifecycle Examples](In Progress)</li>
   </ul>
   
 <li><b>Microsoft Azure</b></li>
   <ul>
-  <li>[Configuring Active Directory within Azure VMs]()</li>
-  <li>[Network Security Groups (NSGs) and Inspecting Network Protocols]()</li>
-  <li>[Virtual Machine Setup and Management]()</li>
+  <li>[Configuring Active Directory within Azure VMs](In progress)</li>
+  <li>[Network Security Groups (NSGs) and Inspecting Network Protocols](In Progress)</li>
+  <li>[Virtual Machine Setup and Management](In Progress)</li>
   </ul>
 
 </ul>
