@@ -1,7 +1,9 @@
 <h1 align="center">Hi there my name is <i><a href= "https://www.linkedin.com/in/coltontrau/">Colton</a></i></h1>
 <ul>
   <li>10+ years of experience in retail / customer service</li>
-    <li>A vast background in computer software and IT</li>
+  <ul>
+  <li>A vast background in computer software and IT</li>
+  </ul>
   <li>A passion to collaborate with others as a team</li>
   <li>A positive mindset and drive to learn new things</li>
 </ul>
