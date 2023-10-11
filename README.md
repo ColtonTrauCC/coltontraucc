@@ -1,4 +1,6 @@
-<h1>Hi there my name is <a href= "https://www.linkedin.com/in/coltontrau/">Colton</a></h1>
+<h1>Hi there my name is <i><a href= "https://www.linkedin.com/in/coltontrau/">Colton</a></i>i</h1>
+
+<marquee>My cool IT stuff</marquee>
 
 <h2>IT Projects</h2>
 
@@ -10,4 +12,4 @@
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
-
+<marquee>My cool IT stuff</marquee>
