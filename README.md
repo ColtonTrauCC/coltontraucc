@@ -10,7 +10,7 @@
 <h2 align = "center">IT Projects</h2>
 
 - <b>osTicketing (Help Desk Ticketing)</b>
-  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Prerequisites and Installation](https://github.com/ColtonTrauCC/osticket-prereqs)
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
