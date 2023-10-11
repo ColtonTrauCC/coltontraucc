@@ -17,6 +17,6 @@
   - [Virtual Machine Setup and Management]()
  
  <h2 align = "center">Game Development Project</h2>
- [CHEMANDOS](https://chematomicgame.wordpress.com/)
+<a ref ="https://chematomicgame.wordpress.com/">CHEMANDOS</a>
 
 
