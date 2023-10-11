@@ -5,15 +5,22 @@
 - A passion to collaborate with others as a team
 - A positive mindset and drive to learn new things
 
+<!-- Education -->
 
 <h2 align = "center">Education</h2>
 <h3>Bachelor Science in Computer Game Design & Development - Kennesaw State University, 2012 - 2019</h3>
 <h3>Information Technology Professional Course - Course Careers, 2023</h3>
 
+<h3></h3>
+
+<!-- Certifications -->
 
 <h2 align = "center">Certifications</h2>
 <h3>CourseCareers IT Professional (In progress, expected Dec 1st, 2023)</h3>
 
+<h3></h3>
+
+<!-- IT Projects -->
 
 <h2 align = "center">IT Projects</h2>
 
@@ -26,6 +33,9 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
   - [Virtual Machine Setup and Management]()
 
+ <h3></h3>
+
+<!-- Game Dev Projects -->
  
 <h2 align = "center">Game Development Projects</h2>
 <h3 align = "center"><a href ="https://www.youtube.com/watch?v=YZ3JvLRN-3U&ab_channel=bee">Shot in the Dark</a></h3>
