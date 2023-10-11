@@ -17,7 +17,8 @@
   - [Virtual Machine Setup and Management]()
  
 <h2 align = "center">Game Development Projects</h2>
-
+<h3 align = "center"><a href ="https://www.youtube.com/watch?v=YZ3JvLRN-3U&ab_channel=bee">Shot in the Dark</a></h3>
+<h3 align = "center"><a href ="https://sites.google.com/view/ksucgdd-4814-coc/home">Conquer or Conquest</a></h3>
 <h3 align = "center"><a href ="https://chematomicgame.wordpress.com/">CHEMANDOS</a></h3>
 
 
