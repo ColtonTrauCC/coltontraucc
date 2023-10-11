@@ -14,7 +14,8 @@
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs]()
+  - [Configuring Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Virtual Machine Setup and Management]()
 
 
