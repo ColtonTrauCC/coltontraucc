@@ -5,6 +5,9 @@
 - A passion to collaborate with others as a team
 - A positive mindset and drive to learn new things
 
+<h2>Education</h2>
+<h3 align = "left">Bachelor Science in Computer Game Design & Development</h3> <h3 align = "right">Kennesaw State University</h3>
+
 <h2 align = "center">IT Projects</h2>
 
 - <b>osTicketing (Help Desk Ticketing)</b>
