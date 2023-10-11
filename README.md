@@ -1,4 +1,4 @@
-<h1>Hi there my name is Colton</h1>
+<h1>Hi there my name is <a href= "https://www.linkedin.com/in/coltontrau/">Colton</a></h1>
 
 <h2>IT Projects</h2>
 
@@ -10,8 +10,4 @@
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
 
-<h2>Contact</h2>
-[<img align="left" alt="Colton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/coltontrau/
 
