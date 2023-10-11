@@ -12,23 +12,19 @@
 <h2 align = "center">Education</h2>
 
 <ul>
-  <li>
- Kennesaw State University, 2012 - 2019
-  </li>
+  <li>Kennesaw State University, 2012 - 2019</li>
     <ul>
       <li>Bachelor Science in Computer Game Design & Development</li>
       <li>Minor Degree in Computer Science</li>
     </ul>
   
-  <li>
-  Course Careers
-  </li>
+  <li>Course Careers</li>
    <ul>
       <li>Information Technology Professional Course</li>
-    </ul>
+   </ul>
 
 
-</h3>
+</ul>
 
 <br>
 
