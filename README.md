@@ -5,8 +5,12 @@
 - A passion to collaborate with others as a team
 - A positive mindset and drive to learn new things
 
-<h2>Education</h2>
-<h3 align = "left">Bachelor Science in Computer Game Design & Development <h3 align = "right">Kennesaw State University</h3>
+<h2 align = "center">Education</h2>
+Bachelor Science in Computer Game Design & Development - Kennesaw State University, 2012 - 2019
+Information Technology Professional Course - Course Careers, 2023
+
+<h2 align = "center">Certifications</h2>
+CourseCareers IT Professional (In progress, expected Dec 1st, 2023)
 
 <h2 align = "center">IT Projects</h2>
 
