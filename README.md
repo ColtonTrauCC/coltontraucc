@@ -52,9 +52,9 @@
   
 <li><b>Microsoft Azure</b></li>
   <ul>
+  <li>[Creating a Virtual Machine Network in Azure](In Progress)</li>
   <li>[Configuring Active Directory within Azure VMs](In progress)</li>
   <li>[Network Security Groups (NSGs) and Inspecting Network Protocols](In Progress)</li>
-  <li>[Virtual Machine Setup and Management](In Progress)</li>
   </ul>
 
 </ul>
