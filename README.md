@@ -3,7 +3,7 @@
   <li>10+ years of experience in retail / customer service</li>
   <li>A vast background in computer software and IT</li>
   <li>A passion to collaborate with others as a team</li>
-  <li>A positive mindset and drive to learn new things</li>
+  <li>A drive to learn new things</li>
 </ul>
 <br>
 
