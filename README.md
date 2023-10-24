@@ -53,7 +53,7 @@
 <li><b>Microsoft Azure</b></li>
   <ul>
   <li><a href = "https://github.com/ColtonTrauCC/vm-network">Creating a Virtual Machine Network in Azure and Traffic Observation</a></li>
-  <li>[Configuring Active Directory within Azure VMs](In progress)</li>
+  <li><a href = "https://github.com/ColtonTrauCC/active-directory">Installing and Configuring Active Directory within Azure VMs</a></li>
   <li>[Network Security Groups (NSGs) and Inspecting Network Protocols](In Progress)</li>
   </ul>
 
