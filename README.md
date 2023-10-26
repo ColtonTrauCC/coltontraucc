@@ -55,7 +55,7 @@
   <li><a href = "https://github.com/ColtonTrauCC/vm-network">Creating a Virtual Machine Network in Azure and Inspecting Network Protocol</a></li>
   <li><a href = "https://github.com/ColtonTrauCC/active-directory">Installing and Configuring Active Directory within Azure VMs</a></li>
   <li><a href = "https://github.com/ColtonTrauCC/dns">Understanding & Building Intuition for DNS</a></li>
-  <li><a href = ""></a></li>
+  <li><a href = "https://github.com/ColtonTrauCC/network-fileshare">Network Fileshare and Permissions in Active Directory</a></li>
   </ul>
 
 </ul>
