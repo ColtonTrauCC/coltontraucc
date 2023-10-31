@@ -60,7 +60,7 @@
 
 <li><b>Virtual Private Networks (VPN)</b></li>
 <ul>
-  <li></li>
+  <li><a href = "https://github.com/ColtonTrauCC/vpn">Understanding and Installing Virtual Private Networks</a></li>
 </ul>
 
 </ul>
