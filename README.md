@@ -32,7 +32,7 @@
 
 <h2 align = "center">Certifications</h2>
 <ul>
-  <li>CourseCareers IT Professional (In progress, expected Dec 1st, 2023)</li>
+  <li>CourseCareers IT Professional (In progress, expected Jan 1st, 2024)</li>
 </ul>
 
 <br>
