@@ -33,6 +33,7 @@
 <h2 align = "center">Certifications</h2>
 <ul>
   <li>CourseCareers IT Professional</li>
+  <li>CompTIA A+ (in process)</li>
 </ul>
 
 <br>
